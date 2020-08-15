@@ -29,7 +29,6 @@ Para crear un protecto Maven basado en arqueripo se tiene que seguir el siguient
         <plugins>
      <plugin>
   <artifactId>maven-archetype-quickstart</artifactId>
- 
  </project
   
 ```
