@@ -13,7 +13,7 @@ test: Que prueba el código compilado utilizando algún framework de pruebas uni
 package: Coge el código compilado y lo empaqueta en un formato distribuible. Por ejemplo, como un JAR.
 verify: Ejecuta comprobaciones de pruebas de integración para asegurarse que se cumplen los criterios de calidad
 install: Instala el paquete en el repositorio local (el directorio ${user.home}/.m2) para que se pueda usar como dependencia en otros proyectos localmente
-deploy: Copia el paquete final a un repositorio remoto para compartirlo con otros desarrolladores. Hay que tener en cuenta que este despliegue no se refiere en general al despliegue de la aplicación en un servidor web, sino a dejarlo disponible en un repositorio para que lo usen otros desarrolladores (más información en [Introducción de dependencias]).
+deploy: Copia el paquete final a un repositorio remoto para compartirlo con otros desarrolladores.
 
 ### Ciclo de vida de la construcción
 
