@@ -57,17 +57,25 @@ Para crear un protecto Maven basado en arqueripo se tiene que seguir el siguient
 - Paquete: edu.eci.cvds.patterns
 - archetypeArtifactId: maven-archetype-quickstart
 
-```
-<project "edu.eci.cvds.patterns"
-  <groupId>edu.eci.cvds</groupId>
-  <artifactId>Patterns</artifactId>
-    <build>
-        <plugins>
-     <plugin>
-  <artifactId>maven-archetype-quickstart</artifactId>
- </project
-  
-```
+#### Crear Un proyecto Maven
+
+##### * Ajustar Algunas Configuraciones En El Proyecto
+
+![texto cualquiera por si no carga la imagen](https://github.com/PaulaSanchez810/CVDS-Lab2-Grupo5/blob/master/compilar%20y%20Ejecutar1.png)
+
+* tree
+![texto cualquiera por si no carga la imagen](https://github.com/PaulaSanchez810/CVDS-Lab2-Grupo5/blob/master/tree.png)
+
+
+* Ajustar Algunas Configuraciones En El Proyecto
+![texto cualquiera por si no carga la imagen](https://github.com/PaulaSanchez810/CVDS-Lab2-Grupo5/blob/master/pom.png)
+
+##### * Compilar y Ejecutar
+
+![texto cualquiera por si no carga la imagen](https://github.com/PaulaSanchez810/CVDS-Lab2-Grupo5/blob/master/compilar%20y%20Ejecutar2.png)
+
+##### *Hacer El Esqueleto De La Aplicacion
+
 
 
 
