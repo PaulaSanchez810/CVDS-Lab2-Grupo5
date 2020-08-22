@@ -57,7 +57,7 @@ Para crear un protecto Maven basado en arqueripo se tiene que seguir el siguient
 - Paquete: edu.eci.cvds.patterns
 - archetypeArtifactId: maven-archetype-quickstart
 
-#### Crear Un proyecto Maven
+## Crear Un proyecto Maven
 
 ##### Ajustar Algunas Configuraciones En El Proyecto
 
