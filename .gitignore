@@ -242,3 +242,9 @@ nb-configuration.xml
 
  
 .DS_Store
+
+##############################
+## imagenes
+##############################
+
+*.jpg\n*.jpeg\n*.png\n*.gif\n
