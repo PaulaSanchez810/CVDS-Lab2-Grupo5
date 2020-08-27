@@ -71,11 +71,11 @@ Para crear un protecto Maven basado en arqueripo se tiene que seguir el siguient
 ##### Ajustar Algunas Configuraciones En El Proyecto
 ![texto cualquiera por si no carga la imagen](https://github.com/PaulaSanchez810/CVDS-Lab2-Grupo5/blob/master/pom.png)
 
-##### *Compilar y Ejecutar
+##### Compilar y Ejecutar
 
 ![texto cualquiera por si no carga la imagen](https://github.com/PaulaSanchez810/CVDS-Lab2-Grupo5/blob/master/compilar%20y%20Ejecutar2.png)
 
-##### *Hacer El Esqueleto De La Aplicación
+##### Hacer El Esqueleto De La Aplicación
 
 ![texto cualquiera por si no carga la imagen](https://github.com/PaulaSanchez810/CVDS-Lab2-Grupo5/blob/master/helloWord-Pepito)
 ![texto cualquiera por si no carga la imagen](https://github.com/PaulaSanchez810/CVDS-Lab2-Grupo5/blob/master/nombre-integrantes)
@@ -88,7 +88,6 @@ Para crear un protecto Maven basado en arqueripo se tiene que seguir el siguient
 ![texto cualquiera por si no carga la imagen](https://github.com/PaulaSanchez810/CVDS-Lab2-Grupo5/blob/master/querty)
 
 
-Podemos evidenciar que las instrucciones que funcionan correctamente son Hexagon ya que estas se encuentran dentro de los parametros que se definieron, por ende, las demas palabras de figuras poseen errores que no se encuentran en las entradas definidas.
 
 #### ¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
 
