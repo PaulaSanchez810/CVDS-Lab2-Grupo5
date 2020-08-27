@@ -247,14 +247,8 @@ nb-configuration.xml
 ## imagenes
 ##############################
 
-*.jpg\n*.jpeg\n*.png\n*.gif\n
+*.jpg\
+*.jpeg\
+*.png\
+*.gif\
 
-compilar y Ejecutar1
-compilar y Ejecutar2
-Hello Pepito peresz
-helloWord-Pepito
-Hexagon
-nombre-integrantes
-petagon
-querty
-tree
