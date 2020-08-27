@@ -1,5 +1,6 @@
 package edu.eci.cvds.patterns.shapes;
 
+import edu.eci.cvds.patterns.shapes.concrete.Hexagon;
 import edu.eci.cvds.patterns.shapes.concrete.Pentagon;
 import edu.eci.cvds.patterns.shapes.concrete.Quadrilateral;
 import edu.eci.cvds.patterns.shapes.concrete.Triangle;
@@ -14,7 +15,7 @@ public class ShapeFactory {
             case Quadrilateral:
                 return new Quadrilateral();
             case Triangle:
-                return new Triangle();
+                return new Hexagon();
             default:
                 return  null;
 
